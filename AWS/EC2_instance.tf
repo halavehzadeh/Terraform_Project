@@ -13,9 +13,3 @@ resource "aws_instance" "myec2" {
   }
 }
 
-#Add a user to IAM service
-
-resource "aws_iam_user" "andrew" {
-  name = "kplabs-demo-user"
-
-}

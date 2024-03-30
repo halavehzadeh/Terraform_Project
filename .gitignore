@@ -4,4 +4,6 @@ GitHub/
 AWS/Create_user_IAM.tf
 AWS/EC2_Instance.tf
 AWS/Security_group.tf
+AWS/terrafrom.tfstate
+AWS/terrafrom.tfstate.backup
 

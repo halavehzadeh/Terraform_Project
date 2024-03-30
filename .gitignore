@@ -1,0 +1,7 @@
+Azure/
+DigitalOcean/
+GitHub/
+AWS/Create_user_IAM.tf
+AWS/EC2_Instance.tf
+AWS/Security_group.tf
+
